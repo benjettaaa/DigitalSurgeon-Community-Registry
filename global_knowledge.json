@@ -1,0 +1,20 @@
+{
+    "engines": {
+        "rage": {
+            "container": ".rpf",
+            "parser": "rage_parser_v1",
+            "notes": "Rockstar games container structure"
+        },
+        "unreal": {
+            "container": ".pak",
+            "parser": "unreal_pak_v4",
+            "notes": "Unreal Engine standard pak format"
+        },
+        "criware": {
+            "container": ".cpk",
+            "parser": "criware_cpk_v2",
+            "notes": "CRI Middleware package format"
+        }
+    },
+    "formats": {}
+}
