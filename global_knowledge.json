@@ -19,6 +19,11 @@
             "container": ".png",
             "parser": "dynamic_ai_parser",
             "notes": "Auto-discovered format for .png"
+        },
+        "auto_engine_fbx": {
+            "container": ".fbx",
+            "parser": "dynamic_ai_parser",
+            "notes": "Auto-discovered format for .fbx"
         }
     },
     "formats": {}
