@@ -14,6 +14,11 @@
             "container": ".cpk",
             "parser": "criware_cpk_v2",
             "notes": "CRI Middleware package format"
+        },
+        "auto_engine_png": {
+            "container": ".png",
+            "parser": "dynamic_ai_parser",
+            "notes": "Auto-discovered format for .png"
         }
     },
     "formats": {}
